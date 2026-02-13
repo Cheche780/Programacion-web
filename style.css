@@ -2,3 +2,23 @@ body{
     background-color: #f4f4f4;
     font-family: Arial, sans-serif;
 }
+h1{
+    text-align: center;
+}
+h2{
+    
+}
+
+/* boton de ubicacion.*/
+.btn-mapa{
+  display:inline-block;
+  padding:10px 16px;
+  background:#000;
+  color:#fff;
+  text-decoration:none;
+  border-radius:8px;
+  font-weight:600;
+}
+.btn-mapa:hover{
+  background:#333;
+}
