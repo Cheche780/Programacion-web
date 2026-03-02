@@ -1,3 +1,79 @@
+<<<<<<< HEAD
+body{
+    background-color: #644728;
+
+    font-family: Arial, sans-serif;
+     margin: 0;
+  padding-top: 100px;  /* mismo alto (o un poco más) que la barra */
+}
+
+#header{ /*agrupacion h1 e imagen para poner todo en la parte superior*/
+    display: flex;
+    justify-content: space-between;  /* separa lados */
+    align-items: center;
+    position: fixed;  /* para mantener fija la barra en la parte superior*/
+    top:0;
+    left:0;
+    width: 100%;   /*abarca el ancho de pantalla*/
+    height: 100px;  
+    background-color: rgb(41, 27, 1);
+    padding: 0 20px;
+    z-index: 1000; /* para asegurarse de que el header esté por encima de otros elementos */
+    box-sizing: border-box;
+
+}
+#left{
+    display: flex;
+    align-items: center;
+}
+#right{
+    display: flex;
+    align-items: center;
+}
+#contacto{
+    color: #fff0c4;
+    text-decoration: none;
+    margin-left: 20px;
+}
+#telefono{
+    color: #fff0c4;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+
+#logo{
+ width: 75px;
+ height: auto;
+ margin-right: 10px;
+}
+#Titulo{
+    margin: 0;
+    color: #fff0c4;
+}
+
+#misionEmpresa{
+    text-align: center;
+    color: #381904;
+    font-family: "Palatino linotype", "Book Antiqua", serif;
+    font-style: italic;
+    margin-top: 10px;
+}
+#lista{
+    text-align: center;
+    color: #3f0501;
+}
+
+#mision,
+.visitenos{
+    text-align: center;
+    font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+    line-height: 1.5;
+    font-size: 20px;
+    color: rgb(41, 25, 1);
+}
+
+=======
 body{
     background-color: #f4f4f4;
     font-family: Arial, sans-serif;
@@ -22,3 +98,4 @@ h2{
 .btn-mapa:hover{
   background:#333;
 }
+>>>>>>> e8d285a986384fc8315ee93a847f303465b8c2ff

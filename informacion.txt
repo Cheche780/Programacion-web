@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 creando la pagina para la Carniceria que estamos creanod.
 creamos primero el html, o sea la arquitectura de la pagina
 añadiremos el css para darle diseño.
@@ -34,3 +35,41 @@ class: para asignar uno o mas nombres de clase a un elemento
 
 
 
+=======
+creando la pagina para la Carniceria que estamos creanod.
+creamos primero el html, o sea la arquitectura de la pagina
+añadiremos el css para darle diseño.
+
+me apoyare en este archivo con informacion de etiquetas que vaya usando y herramientas para la creacion de estamos
+marcara la mayoria de estas para entender bien el uso de cada una de ellas
+
+etiquetas HTML:
+
+<body> esta es para iniciar con la construccion</body>
+
+<h>es para marcar titulos o texto, modificando el tamaño dependiendo la talla de esta</h>
+
+<div>es un contenedor para agrupar contenido y aplicar estilps mediante css o mainpulacion con JS</div>
+
+<a>sirve para crear enlaces hipertextos, para permitir navegar entre diferentes paginas web</a>
+
+<nav> proporciona enlaces de navegcion ya sea dentro del documento actual o a otros documentos</nav>
+
+<ul>crea listas desordenadas, </ul>
+
+<li> se utiliza para definir un elemento de la lista dentro de un a lista, es fundamental para organizar contenido de forma jerarquica o secuncial, para menus , tareas, etc. </li>
+
+<button class =>: el atributo class en la etiqueta button se utiliza para asignar una o mas clases de css
+
+lo que permite aplicar estilos definidos en hoja de estilo de forma reutilizable y organizada
+
+
+
+
+href su funcion es definir la direccion o el destino al que apunta el hipervinculo
+target: se utiliza para especificar domde se abrira el enlace cuando el usuario haga clic en el
+class: para asignar uno o mas nombres de clase a un elemento
+
+
+
+>>>>>>> e8d285a986384fc8315ee93a847f303465b8c2ff
